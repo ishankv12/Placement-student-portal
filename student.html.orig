@@ -4,13 +4,21 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Create Student Profile</title>
+<<<<<<< HEAD
+  <link rel="stylesheet" href="style.css">
+=======
   <link rel="stylesheet" href="student.css">
+>>>>>>> ishank-changes
 </head>
 <body>
   <header class="navbar">
     <div class="container">
       <div class="logo">
+<<<<<<< HEAD
+        <img src="logo.png" alt="Amity University Logo" style="height:40px; vertical-align: middle; margin-right: 10px;">
+=======
         <img src="logo.jpg" alt="Amity University Logo" style="height:40px; vertical-align: middle; margin-right: 10px;">
+>>>>>>> ishank-changes
         Amity University Internship Portal
       </div>
       <nav>
@@ -18,7 +26,11 @@
           <li><a href="#">Home</a></li>
           <li><a href="#">About</a></li>
           <li><a href="#">Employers</a></li>
+<<<<<<< HEAD
+          <li><a href="#">Students</a></li>
+=======
           <li><a href="student.html">Students</a></li>
+>>>>>>> ishank-changes
           <li><a href="#">Contact</a></li>
         </ul>
       </nav>
@@ -49,7 +61,12 @@
           <label for="cgpa">CGPA</label>
           <input type="number" id="cgpa" name="cgpa" step="0.01" min="0" max="10" placeholder="e.g. 8.5" required>
         </div>
+<<<<<<< HEAD
+	 <div class="form-group">
+=======
+
         <div class="form-group">
+>>>>>>> ishank-changes
           <label for="skills">Skills</label>
           <textarea id="skills" name="skills" placeholder="List your technical and soft skills" rows="5" required></textarea>
         </div>
@@ -71,3 +88,7 @@
   </footer>
 </body>
 </html>
+<<<<<<< HEAD
+=======
+
+>>>>>>> ishank-changes
