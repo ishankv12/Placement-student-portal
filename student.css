@@ -125,11 +125,11 @@ body {
 
 /* Footer */
 .footer {
-  background-color: #001f3f;
-  color: white;
+  background-color: #FFD700;
+  color: yellow;
   text-align: center;
   padding: 20px 10px;
-  margin-top: 40px;
+  margin-top: 42px;
 }
 
 /* Responsive */
@@ -141,11 +141,11 @@ body {
   }
 
   .nav-links {
-    gap: 10px;
+    gap: 12px;
   }
 
   .form-hero h1 {
-    font-size: 2rem;
+    font-size: 3rem;
   }
 
   .student-form {
